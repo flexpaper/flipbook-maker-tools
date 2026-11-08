@@ -22,6 +22,8 @@ Ratings reflect G2 results indexed as of November 9, 2026, rounded to the neares
 
 ## 1. [FlowPaper](https://flowpaper.com/) — Best for sharp publications and reader insights
 
+![FlowPaper website screenshot](images/flowpaper.png)
+
 - **Review rating:** [★★★★⯨ on G2](https://www.g2.com/products/flowpaper/reviews)
 - **Best for:** Publishers who want clear PDF-based flipbooks, control over hosting, and detailed engagement insights.
 
@@ -41,6 +43,8 @@ FlowPaper won't be the right fit for everyone. If you want to design a publicati
 
 ## 2. [Flipsnack](https://www.flipsnack.com/) — Best for design and collaboration
 
+![Flipsnack website screenshot](images/flipsnack.png)
+
 - **Review rating:** [★★★★⯨ on G2](https://www.g2.com/products/flipsnack/reviews)
 - **Best for:** Marketing teams creating branded catalogs, magazines, and presentations.
 
@@ -49,6 +53,8 @@ If you don't already have a finished PDF, Flipsnack offers another route: build 
 That breadth is appealing, particularly for collaborative work. The tradeoff is that some [GetApp reviewers](https://www.getapp.com/marketing-software/a/flipsnack/) say advanced features sit behind higher-priced tiers and the free version is limited. Price out the features your team will actually use before committing.
 
 ## 3. [FlippingBook](https://flippingbook.com/) — Best for sales and business documents
+
+![FlippingBook website screenshot](images/flippingbook.png)
 
 - **Review rating:** [★★★★⯨ on G2](https://www.g2.com/products/flippingbook/reviews)
 - **Best for:** Sales, marketing, and HR teams sharing professional documents.
@@ -59,6 +65,8 @@ It's a sensible shortlist candidate for sales and marketing teams. Check which t
 
 ## 4. [Paperturn](https://www.paperturn.com/) — Best for cloud-based business publishing
 
+![Paperturn website screenshot](images/paperturn.png)
+
 - **Review rating:** [★★★★⯨ on G2](https://www.g2.com/products/paperturn/reviews)
 - **Best for:** Organizations publishing interactive catalogs, reports, and brochures online.
 
@@ -67,6 +75,8 @@ Paperturn brings PDF conversion, interactive elements, access controls, and lead
 For teams happy with a hosted workflow, the all-in-one approach may be convenient. Those who want to manage their own hosting should compare it with FlowPaper and check the plan details before deciding.
 
 ## 5. [Issuu](https://issuu.com/) — Best for magazines and distribution
+
+![Issuu website screenshot](images/issuu.png)
 
 - **Review rating:** [★★★★⯨ on G2](https://www.g2.com/products/issuu/reviews)
 - **Best for:** Publishers and creators distributing magazines and other editorial content.
@@ -77,6 +87,8 @@ The choice comes down partly to the plan: [GetApp's review summary](https://www.
 
 ## 6. [FlipHTML5](https://fliphtml5.com/) — Best for multimedia and free-plan exploration
 
+![FlipHTML5 website screenshot](images/fliphtml5.png)
+
 - **Review rating:** [★★★★⯨ on G2](https://www.g2.com/products/flip-html5/reviews)
 - **Best for:** Creators who want interactive flipbooks with multimedia.
 
@@ -85,6 +97,8 @@ FlipHTML5 is worth exploring if you want to add multimedia to a PDF-based public
 Some [GetApp reviewers](https://www.getapp.com/industries-software/a/fliphtml5/) mention technical issues and free-plan limitations. As with any viewer, try a document with small text and detailed graphics at several zoom levels before making a decision.
 
 ## 7. [Simplebooklet](https://simplebooklet.com/) — Best for small-business marketing
+
+![Simplebooklet website screenshot](images/simplebooklet.png)
 
 - **Review rating:** [★★★★⯨ on G2](https://www.g2.com/products/simplebooklet-flipbook-experiences/reviews)
 - **Best for:** Small businesses creating and sharing digital marketing collateral.
